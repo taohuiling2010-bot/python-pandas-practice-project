@@ -87,5 +87,6 @@ GitHub 会渲染完整的代码 + 输出 + 图表
 - **作者**：陶惠灵
 - **邮箱**：taohuiling2010@gmail.com
 - **GitHub**：[@taohuiling2010-bot](https://github.com/taohuiling2010-bot)
+- **Gitee 国内镜像**：[{仓库链接}](https://gitee.com/taohuiling2010/python-pandas-practice-project.git)
 
 如对项目有任何疑问或建议，欢迎通过 Issue 或邮件联系。
